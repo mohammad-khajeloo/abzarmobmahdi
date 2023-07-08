@@ -6,10 +6,10 @@ return [
     "larammerce" => [
         "logo" => "/admin_dashboard/images/logo",
         "title" => "Larammerce | Another open-source e-commerce project",
-        "name" => "Larammerce",
-        "motto" => "ورود به پنل مدیریت لارامرس",
-        "website" => "larammerce.com",
-        "url" => "https://larammerce.com",
+        "name" => "ابزار مبل مهدی",
+        "motto" => "ورود به پنل مدیریت ابزار مبل مهدی",
+        "website" => "abzarmoblmahdi.com",
+        "url" => "https://abzarmoblmahdi.com",
         "color" => "#ff2e20",
         "fav" => "favicon"
     ],
